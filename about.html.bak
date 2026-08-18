@@ -1,0 +1,52 @@
+﻿<html>
+<head>
+<meta http-equiv=content-type content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="ru">
+<title>Blessed Path :: About us</title>
+<link rel="stylesheet" href="./style.css" type="text/css">
+
+</head>
+
+<body bgcolor=white text=black link=black alink=red vlink=gray topmargin=0 leftmargin=0 marginheight=0 marginwidth=0>
+<div id="main_frame">
+
+<div id="logo_bar">
+<img src="header.gif" style="position: absolute; top: 10px; left: 15px;">
+
+<div id="nav_frame">
+<table cellspacing=0 cellpadding=0>
+<tr><td>
+	<a href="./index.html"><img src="main0.gif" border=0></a>
+</td></tr>
+<tr><td>
+	<a href="./tri_pitaka.html"><img src="lib0.gif" border=0></a>
+</td></tr>
+<tr><td>
+	<a href="./about.html"><img src="about0.gif" border=0></a>
+</td></tr>
+</table>
+</div>
+
+</div>
+
+<div id="con_frame">
+<pre style="font-size: 16px; margin-left: 50px;">
+
+Данный сайт был создан как открытый проект
+Буддийской библиотеки всех направлений и
+школ, основная цель проекта накопление и
+сбережение Буддийских материалов как
+для практикующих Буддистов так и для
+начинающих, интересующихся.
+Проект является открытым и каждый может
+принять в нём участие.
+Присылайте свои идеи, тексты, критику
+на e-mail "blessadmin@mail.ru"
+
+</pre>
+</div>
+
+</div>
+</body>
+
+</html>

@@ -1,0 +1,66 @@
+
+body
+{
+	margin: 0;
+	padding: 0;
+	background: url(page-bg.gif) center repeat-y;
+	text-align: center;
+	font-size: 100%;
+}
+
+A:link
+{
+	text-decoration: none;
+}
+
+A:visited
+{
+	text-decoration: none;
+}
+
+#main_frame
+{
+	position: relative;
+	margin: 0 auto 0 auto;
+	width: 630px;
+	height: 100%;
+	text-align: left;
+}
+
+#logo_bar
+{
+	position: relative;
+	width: 630px;
+	height: 220px;
+	border-bottom: black solid 1px;
+}
+
+#con_frame
+{
+	position: relative;
+	top: 10px;
+	left: 10px;
+	width: 610px;
+	bottom: 100px;
+}
+
+#nav_frame
+{
+	position: absolute;
+	top: 15px;
+	right: 5px;
+	width: 180px;
+}
+
+#wel_words
+{
+	position: absolute;
+	left: 20px;
+	font-size: 100%;
+}
+
+#separ
+{
+	border-bottom: black solid 1px;
+}
+
